@@ -1,2 +1,6 @@
-# PL
-Programing Language
+# Programing Language
+## 114-1 師大科技系程式語言
+- 授課教師：蔡芸琤老師
+- 姓名：林書妤
+- 系級：科技系117級
+
