@@ -16,4 +16,4 @@
 | 2025-11-06 | [作業六：課表查詢與提醒素材.ipynb](hw_6_課表查詢與提醒素材.ipynb) | 從 Sheet 讀課表 → 指定星期輸出當日課程、地點 → 回寫「本週重點」分頁 | 模型把本週課程壓成一句「行前提醒」（攜帶品/先讀章節） | ✅ 已完成 |
 
 ## 期末專題連結
-[githib page](https://github.com/41371122h-lichi/programming_group)
+[github page](https://github.com/41371122h-lichi/programming_group)
